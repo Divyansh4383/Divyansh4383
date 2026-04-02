@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Divyansh 👋
+🎓 Data Science Student  
+💻 Passionate about DSA & Backend Development  
 
-<!--
-**Divyansh4383/Divyansh4383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Python, Java ,C++
+- Django, React, NextJS, TailwindCSS
+- Data Structures & Algorithms
+- Docker, Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+-  AI Study Buddy – Personalized Learning Assistant
+- Online Voting System
+- Quiz_portal
+- StudyBuddyChatBot
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/divyansh-
