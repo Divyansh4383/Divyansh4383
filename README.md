@@ -3,6 +3,8 @@
 💻 Passionate about DSA & Backend Development  
 
 ## 🚀 Skills
+![Python](https://img.shields.io/badge/Python-blue) 
+![Docker](https://img.shields.io/badge/Docker-blue)
 - Python, Java ,C++
 - Django, React, NextJS, TailwindCSS
 - Data Structures & Algorithms
